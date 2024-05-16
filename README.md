@@ -1,5 +1,4 @@
-# 一、Carousel-chart
-
+# 一、Carousel-chart：
 #### 介绍：
 轮播图：自动播放+手动点击播放
 #### 分析：
